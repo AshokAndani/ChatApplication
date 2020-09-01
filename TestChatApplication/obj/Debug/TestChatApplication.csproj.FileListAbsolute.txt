@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\MotilalOswal\TestChatApplication\TestChatApplication\bin\Debug\TestChatApplication.exe.config
+C:\Users\Lenovo\Desktop\MotilalOswal\TestChatApplication\TestChatApplication\bin\Debug\TestChatApplication.exe
+C:\Users\Lenovo\Desktop\MotilalOswal\TestChatApplication\TestChatApplication\bin\Debug\TestChatApplication.pdb
+C:\Users\Lenovo\Desktop\MotilalOswal\TestChatApplication\TestChatApplication\obj\Debug\TestChatApplication.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\MotilalOswal\TestChatApplication\TestChatApplication\obj\Debug\TestChatApplication.Server.resources
+C:\Users\Lenovo\Desktop\MotilalOswal\TestChatApplication\TestChatApplication\obj\Debug\TestChatApplication.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\MotilalOswal\TestChatApplication\TestChatApplication\obj\Debug\TestChatApplication.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MotilalOswal\TestChatApplication\TestChatApplication\obj\Debug\TestChatApplication.exe
+C:\Users\Lenovo\Desktop\MotilalOswal\TestChatApplication\TestChatApplication\obj\Debug\TestChatApplication.pdb
+C:\Users\Lenovo\Desktop\MotilalOswal\TestChatApplication\TestChatApplication\obj\Debug\TestChatApplication.csprojAssemblyReference.cache
